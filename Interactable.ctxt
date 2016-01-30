@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getName()
+comment1.params=
+comment1.target=java.lang.String\ examine()
+comment2.params=
+comment2.target=void\ interact()
+comment3.params=name\ number
+comment3.target=int\ nameHelper(java.lang.String,\ int)
+comment3.text=\r\n\ @return\ 0\ for\ singular,\ "a";\ 1\ for\ singular,\ "an";\ 2\ for\ plural,\ "some"\r\n
+numComments=4

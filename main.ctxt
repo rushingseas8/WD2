@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment0.text=\r\n\ *Loads\ from\ save\ file\ all\ the\ relevant\ information\ (player\ info,\ floor\ number,\ room\ location,\ etc)\r\n\ *Gives\ the\ title\ screen\ on\ start\r\n\ *If\ in\ between\ floors,\ or\ starting\ a\ new\ game,\ creates\ a\ new\ floor\r\n\ \ *Floor\ fills\ itself\ with\ rooms\ based\ on\ the\ floor\ number\ and\ algorithms\r\n\ *When\ a\ floor\ is\ finished\ [Perhaps\ it\ returns\ something\ back\ up\ here?\ Idk],\ delete\ the\ current\ floor,\r\n\ \ \ \ \ \ create\ a\ new\ one,\ and\ make\ sure\ the\ player\ is\ updated\r\n\ *When\ play\ is\ finished,\ and\ the\ player\ types\ "Exit"\ and\ confirms,\r\n\ \ *Save\ player\ info\r\n\ \ *Save\ floor\ info\r\n\ \ *Save\ room\ info\ (eg,\ are\ you\ fighting?\ etc)\r\n\ \ *Write\ all\ this\ to\ the\ save\ file,\ and\ then\ end\ all\ the\ threads\ and\ exit\r\n
+comment1.params=
+comment1.target=void\ mainLoop()
+comment2.params=num
+comment2.target=int\ getWLFromFN(int)
+comment3.params=f
+comment3.target=void\ floorLoop(Floor)
+comment4.params=s
+comment4.target=void\ parse(java.lang.String)
+comment5.params=s
+comment5.target=void\ moveLoop(java.lang.String)
+comment6.params=
+comment6.target=void\ saveAndExit()
+numComments=7

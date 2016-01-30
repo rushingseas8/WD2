@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=ID
+comment0.target=Enemy(int)
+comment1.params=nm\ lvl
+comment1.target=Enemy(java.lang.String,\ int)
+comment2.params=lvl
+comment2.target=void\ setLevel(int)
+comment3.params=
+comment3.target=void\ interact()
+comment4.params=
+comment4.target=void\ fight()
+numComments=5

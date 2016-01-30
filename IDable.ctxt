@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=ID
+comment0.target=java.lang.String\ getNameFromID(int)
+comment1.params=name
+comment1.target=int\ getIDFromName(java.lang.String)
+numComments=2

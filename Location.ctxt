@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Location(int,\ int)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=dir
+comment3.target=Location\ getLocationInDir(int)
+comment4.params=
+comment4.target=Room\ get()
+comment5.params=thisRoom
+comment5.target=void\ assign(Room)
+numComments=6
